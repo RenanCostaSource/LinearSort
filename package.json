@@ -1,0 +1,23 @@
+{
+  "name": "apa-linear-sorts",
+  "version": "1.0.0",
+  "description": "atividade 3 do curso de analise e projeto de algoritmos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanCostaSource/APA-merge-quick.git"
+  },
+  "author": "Renan Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanCostaSource/APA-merge-quick/issues"
+  },
+  "homepage": "https://github.com/RenanCostaSource/APA-merge-quick#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
